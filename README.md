@@ -48,6 +48,10 @@ Permite atribuir marcas/tags especificas a cada assunto a ser discutido, sendo q
 
 _descrição em falta_
 
+## Como utilizar o menu "discussion"
+
+O menu "discussions" serve para anunciar modificações, fazer perguntas entre outras opções. O menu issues é especificamente para notificar erros a seres corrigidos, mas também pode ser usado para substituir este menu. 
+
 ## Permissões de escrita ou leitura
 
 Só os administradores é que têm permissão de escrita. Os restantes não. Para fazer modificações, será necessário passar pelo processo de aprovação no menu **pull requests**, sendo que até os administradores, deverão usar esse método para exemplo de boas práticas. 
@@ -70,7 +74,9 @@ Lista de todos os membros Moderadores:
 
 ## Outros sócios
 
-Lista de todos os membros sócios participantes 
+Lista de todos os membros sócios participantes. 
+Todas as modificações que cada mandala pode ter, será enviado para o email uma notificação sobre o assunto em questão. 
+Lembrem-se que as respostas não precisam de respostas imediatas. Para isso usa-se o Whatsapp.
 
 ## Hospedagem do site
 
