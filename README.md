@@ -86,6 +86,10 @@ Espaço para hospedar o código do site
 
 Espaço para hospedar / guardar documentos internos que sejam relevantes salva-guardar. 
 
+## Assembleias 
+
+Assuntos discutidos, Horários, datas, assuntos a tratar, prioridades, etc.. 
+
 ## Atas
 
 Lista de documentos com os resumos das atas
