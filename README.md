@@ -1,8 +1,8 @@
 # Documento de Ajuda
 
-- Documentos de Ajuda para usar a plataforma por parte dos membros da associação Espaço Compasso
+**Nota**: O github é uma plataforma da Microsoft e que pode ser usada via a interface Web ou via a linha de comandos do Windows ou do Linux, sendo esta plataforma de uso gratuito. 
 
-- Este espaço chamado "Documento_de_Ajuda" é como se fosse uma Mandala. Aqui fala-se somente sobre toda a documentação que poderá ser útil a todos os membros da associação.
+- Este espaço chamado "Documento_de_Ajuda" é como se fosse uma Mandala. Aqui fala-se somente sobre toda a documentação que poderá ser útil a todos os membros da associação, no uso desta plataforma.
 
 1. Qual a função de cada menu.
 2. Como utilizar o menu "projects".
@@ -20,21 +20,21 @@
 14. Atas
 15. Eventos
 
-@DaoExpression aka Oscar FM no Whatsapp. 
+No lado esquerdo, podem ver quem foi o utilizador que fez as últimas modificações neste documento: @DaoExpression aka Oscar FM no Whatsapp. 
 
 Para melhoria da organização de cada assunto, esta plataforma ou semelhantes é a mais indicada. 
 
 ## Qual a função de cada Menu
 
-1. code: lista de documentos de texto, tendo eles a terminação / extenção *.md em vez de *.txt, para ser possível formatar e dar-lhe um aspecto bonito.
-2. issues: espaço para apresentar ideias novas, ou modificações, permitindo discutir detalhes por cada ponto.
-3. pull requests: passo necessário que irá permitir a modificação de conteúdos, moderado, para que ninguém possa modificar os documentos sem que as mudanças sejam previamente moderadas e discutidas.
-4. actions: menu de automatização de tópicos avançados que só podem ser definidos pelos administradores.
-5. projects: menu que permite definir objectivos e atribuir prioridades a cada um dos vários passos, como também tempos e relações entre assuntos.
-6. wiki: espaço usado para descrever em detalhe qualquer tipo de assunto que peça a elaboração mais profunda e documental de qualquer tipo de matéria desenvolvida. Só acessível quando a "mandala" aka "repositório" for público.
-7. security: espaço que notifica os administradores sobre possíveis falhas de segurança.
-8. insights: ver estatísticas de utilização de cada "mandala" aka "repositório".
-9. settings: opções que definem o que cada repositório pode ou não conter para os membros.
+1. **Code**: lista de documentos de texto, tendo eles a terminação / extenção *.md em vez de *.txt, para ser possível formatar e dar-lhe um aspecto bonito.
+2. **Issues**: espaço para apresentar ideias novas, ou modificações, permitindo discutir detalhes por cada ponto.
+3. **Pull requests**: passo necessário que irá permitir a modificação de conteúdos, moderado, para que ninguém possa modificar os documentos sem que as mudanças sejam previamente moderadas e discutidas.
+4. **Actions**: menu de automatização de tópicos avançados que só podem ser definidos pelos administradores.
+5. **Projects**: menu que permite definir objectivos e atribuir prioridades a cada um dos vários passos, como também tempos e relações entre assuntos.
+6. **Wiki**: espaço usado para descrever em detalhe qualquer tipo de assunto que peça a elaboração mais profunda e documental de qualquer tipo de matéria desenvolvida. Só acessível quando a "mandala" aka "repositório" for público.
+7. **Security**: espaço que notifica os administradores sobre possíveis falhas de segurança.
+8. **Insights**: ver estatísticas de utilização de cada "mandala" aka "repositório".
+9. **Settings**: opções que definem o que cada repositório pode ou não conter para os membros.
 
 ## Como utilizar o menu "projects"
 
@@ -42,7 +42,7 @@ _descrição em falta_
 
 ## Como utilizar o menu "issues" 
 
-Permite atribuir marcas especificas a cada assunto a ser discutido, sendo que cada issue, permite uma discussão como se fosse um fórum. 
+Permite atribuir marcas/tags especificas a cada assunto a ser discutido, sendo que cada issue, permite uma discussão como se fosse um fórum, por cada detalhe em discussão.
 
 ## Como utilizar o menu "wiki"
 
