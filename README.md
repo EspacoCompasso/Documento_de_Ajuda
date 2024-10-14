@@ -93,3 +93,7 @@ Lista de documentos com os resumos das atas
 ## Eventos
 
 Espaço para organizar eventos. Cada evento merece um documento dedicado, para ser mais fácil organizar e tirar notas. 
+
+## Limites de utilização
+
+Cada Mandala aka Repositório, permite hospedar até 1GB de dados gratuitamente. A partir desse tamanho, ou se cria uma nova mandala, ou teremos de pagar para o efeito.
