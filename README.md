@@ -56,9 +56,9 @@ Só os administradores é que têm permissão de escrita. Os restantes não. Par
 
 Tal como todos os outros sites que oferecem uma funcionalidade, é necessário fazer o registo. Por questões de segurança, será pedido ( como condição obrigatória ) que adicionem o vosso número de telefone, para que a cada login, um código numérico seja enviado para o vosso número de telefone. 
 
-## como ficar associado ao espaço "EspacoCompasso"
+## Como ficar associado ao espaço "EspacoCompasso"
 
-Depois de terem feito o registo, será necessário avisar um dos administradores indicando o email que foi usado. A partir dessa informação, os administradores poderão enviar um convite para fazerem parte do espaço e é-vos atribuído as permissões de utilização. 
+Depois de terem feito o registo, será necessário avisar um dos administradores indicando o email que foi usado. A partir dessa informação, os administradores poderão enviar um convite para fazerem parte do espaço e é-vos atribuído as permissões de utilização. Poderá ser atribuído permissões de escrita aos membros de uma mandala especifica, sendo que essas permissões só funcionam na "mandala" aka "repositório", que o membro faz parte. 
 
 ## Adminstradores
 
