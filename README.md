@@ -46,7 +46,7 @@ Permite atribuir marcas/tags especificas a cada assunto a ser discutido, sendo q
 
 ## Como utilizar o menu "wiki"
 
-_descrição em falta_
+Caso haja a necessidade de documentar algo, será este o espaço a usar. Tal como o Wikipedia, é útil para ler informação que pode ser relevante saber. 
 
 ## Como utilizar o menu "discussion"
 
