@@ -50,7 +50,7 @@ _descrição em falta_
 
 ## Como utilizar o menu "discussion"
 
-O menu "discussions" serve para anunciar modificações, fazer perguntas entre outras opções. O menu issues é especificamente para notificar erros a seres corrigidos, mas também pode ser usado para substituir este menu. 
+O menu "discussions" serve para anunciar modificações, fazer perguntas entre outras opções. O menu issues é especificamente para notificar erros a seres corrigidos, mas também pode ser usado para substituir este menu. Aqui também se pode usar um sistema de voto, para cada assuntos / ponto a ser discutido, o que pode ser extremamente útil para qualquer equipa. 
 
 ## Permissões de escrita ou leitura
 
