@@ -11,7 +11,7 @@
 5. Permissões de escrita e permissões de leitura.
 6. Como fazer o registo na plataforma.
 7. Como ficar associado ao espaço "EspacoCompasso".
-8. Etc.
+8. Como funciona o menu "discussions".
 9. Administradores
 10. Moderadores
 11. Outros sócios
@@ -29,12 +29,13 @@ Para melhoria da organização de cada assunto, esta plataforma ou semelhantes �
 1. **Code**: lista de documentos de texto, tendo eles a terminação / extenção *.md em vez de *.txt, para ser possível formatar e dar-lhe um aspecto bonito.
 2. **Issues**: espaço para apresentar ideias novas, ou modificações, permitindo discutir detalhes por cada ponto.
 3. **Pull requests**: passo necessário que irá permitir a modificação de conteúdos, moderado, para que ninguém possa modificar os documentos sem que as mudanças sejam previamente moderadas e discutidas.
-4. **Actions**: menu de automatização de tópicos avançados que só podem ser definidos pelos administradores.
-5. **Projects**: menu que permite definir objectivos e atribuir prioridades a cada um dos vários passos, como também tempos e relações entre assuntos.
-6. **Wiki**: espaço usado para descrever em detalhe qualquer tipo de assunto que peça a elaboração mais profunda e documental de qualquer tipo de matéria desenvolvida. Só acessível quando a "mandala" aka "repositório" for público.
-7. **Security**: espaço que notifica os administradores sobre possíveis falhas de segurança.
-8. **Insights**: ver estatísticas de utilização de cada "mandala" aka "repositório".
-9. **Settings**: opções que definem o que cada repositório pode ou não conter para os membros.
+4. **Discussions**: menu com vários opções, sendo que é mais facoda na discussão de tópicos, anunciação de detalhes, plataforma de voto, perguntas e respostas, etc. 
+5. **Actions**: menu de automatização de tópicos avançados que só podem ser definidos pelos administradores.
+6. **Projects**: menu que permite definir objectivos e atribuir prioridades a cada um dos vários passos, como também tempos e relações entre assuntos.
+7. **Wiki**: espaço usado para descrever em detalhe qualquer tipo de assunto que peça a elaboração mais profunda e documental de qualquer tipo de matéria desenvolvida. Só acessível quando a "mandala" aka "repositório" for público.
+8. **Security**: espaço que notifica os administradores sobre possíveis falhas de segurança.
+9. **Insights**: ver estatísticas de utilização de cada "mandala" aka "repositório".
+10. **Settings**: opções que definem o que cada repositório pode ou não conter para os membros.
 
 ## Como utilizar o menu "projects"
 
