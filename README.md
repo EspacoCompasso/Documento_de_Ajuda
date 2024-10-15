@@ -43,15 +43,15 @@ _descrição em falta_
 
 ## Como utilizar o menu "issues" 
 
-Permite atribuir marcas/tags especificas a cada assunto a ser discutido, sendo que cada issue, permite uma discussão como se fosse um fórum, por cada detalhe em discussão.
+Permite atribuir marcas/tags especificas a cada assunto a ser discutido, sendo que cada [issue](https://github.com/EspacoCompasso/Documento_de_Ajuda/issues), permite uma discussão como se fosse um fórum, por cada detalhe em discussão.
 
 ## Como utilizar o menu "wiki"
 
-Caso haja a necessidade de documentar algo, será este o espaço a usar. Tal como o Wikipedia, é útil para ler informação que pode ser relevante saber. 
+Caso haja a necessidade de documentar algo, será este o espaço a usar. Tal como o [Wikipedia](https://github.com/EspacoCompasso/Documento_de_Ajuda/wiki), é útil para ler informação que pode ser relevante saber. 
 
 ## Como utilizar o menu "discussion"
 
-O menu "discussions" serve para anunciar modificações, fazer perguntas entre outras opções. O menu issues é especificamente para notificar erros a seres corrigidos, mas também pode ser usado para substituir este menu. Aqui também se pode usar um sistema de voto, para cada assuntos / ponto a ser discutido, o que pode ser extremamente útil para qualquer equipa. 
+O menu [discussions](https://github.com/EspacoCompasso/Documento_de_Ajuda/discussions) serve para anunciar modificações, fazer perguntas entre outras opções. O menu issues é especificamente para notificar erros a seres corrigidos, mas também pode ser usado para substituir este menu. Aqui também se pode usar um sistema de voto, para cada assuntos / ponto a ser discutido, o que pode ser extremamente útil para qualquer equipa. 
 
 ## Permissões de escrita ou leitura
 
