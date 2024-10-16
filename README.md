@@ -53,7 +53,7 @@ Permite atribuir marcas/tags especificas a cada assunto a ser discutido, sendo q
 
 ## Como utilizar o menu "wiki"
 
-_menu não usado neste repositório_ mas o espaço serve tal como esta página, definir documentação. 
+_menu não usado neste repositório_ mas o espaço serve tal como esta página, para definir documentação. 
 
 ## Como utilizar o menu "discussion"
 
@@ -104,6 +104,8 @@ Lista de documentos com os resumos das atas
 ## Eventos
 
 Espaço para organizar eventos. Cada evento merece um documento dedicado, para ser mais fácil organizar e tirar notas. 
+
+Os membros que dinamizam os eventos são: "Josa", "Daniela", "Teresa" e "Raquel", estando estes membros no grupo "Staff" do Whatsapp.
 
 ## Limites de utilização
 
