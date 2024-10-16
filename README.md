@@ -4,25 +4,23 @@
 
 - Este espaço chamado "Documento_de_Ajuda" é como se fosse uma Mandala. Aqui fala-se somente sobre toda a documentação que poderá ser útil a todos os membros da associação, no uso desta plataforma.
 
-1. Qual a função de cada menu.
-2. Como utilizar o menu "projects".
-3. Como utilizar o menu "issues".
-4. Como utilizar o menu "wiki".
-5. Permissões de escrita e permissões de leitura.
-6. Como fazer o registo na plataforma.
-7. Como ficar associado ao espaço "EspacoCompasso".
-8. Como funciona o menu "discussions".
-9. Administradores
-10. Moderadores
-11. Outros sócios
-12. Hospedagem do site do Espaço Compasso
-13. Hospedagem de documentos
-14. Atas
-15. Eventos
 
-No lado esquerdo, podem ver quem foi o utilizador que fez as últimas modificações neste documento: @DaoExpression aka Oscar FM no Whatsapp. 
-
-Para melhoria da organização de cada assunto, esta plataforma ou semelhantes é a mais indicada. 
+0. [Qual a função de cada menu](#qual-a-função-de-cada-menu)
+1. [Como utilizar o menu Projects](#como-utilizar-o-menu-Projects)
+2. [Como utilizar o menu Issues](#como-utilizar-o-menu-projects)
+3. [Como utilizar o menu Wiki](#como-utilizar-o-menu-wiki)
+4. [Como funciona o menu Discussions](#como-utilizar-o-menu-discussion)
+5. [Permissões de escrita e permissões de leitura](#permissões-de-escrita-ou-leitura)
+6. [Como fazer o registo na plataforma](#como-fazer-registo-na-plataforma)
+7. [Como ficar associado ao espaço "EspacoCompasso](#como-ficar-associado-ao-espaço-espacocompasso)
+8. [Administradores](#administradores)
+9. [Moderadores](#moderadores)
+10. [Outros sócios](#outros-socios)
+11. [Hospedagem do site do Espaço Compasso](#hospedagem-do-site-do-espaco-compasso)
+12. [Hospedagem de documentos](#hospedagem-de-documentos)
+13. [Assembleias](#assembleias)
+14. [Atas](#atas)
+15. [Eventos](#eventos)
 
 ## Qual a função de cada Menu
 
@@ -102,3 +100,9 @@ Espaço para organizar eventos. Cada evento merece um documento dedicado, para s
 ## Limites de utilização
 
 Cada Mandala aka Repositório, permite hospedar até 1GB de dados gratuitamente. A partir desse tamanho, ou se cria uma nova mandala, ou teremos de pagar para o efeito.
+
+---
+
+No lado esquerdo, podem ver quem foi o utilizador que fez as últimas modificações neste documento: @DaoExpression aka Oscar FM no Whatsapp. 
+
+Para melhoria da organização de cada assunto, esta plataforma ou semelhantes é a mais indicada. 
