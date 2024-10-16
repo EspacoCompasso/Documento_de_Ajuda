@@ -4,11 +4,11 @@
 
 ## Propósito
 
-Um dos principais objetivos do Documento De Ajuda é ser inclusivo para o maior número possível de colaboradores, com os mais variados e diversos contextos. Assim, estamos comprometidos em proporcionar um ambiente acolhedor, seguro e amigável para todos, independentemente de género, orientação sexual, capacidade, etnia, status socioeconômico e religião (ou a ausência dela).
+Um dos principais objetivos do Espaço Compasso é ser inclusivo para o maior número possível de colaboradores, com os mais variados e diversos contextos. Assim, estamos comprometidos em proporcionar um ambiente acolhedor, seguro e amigável para todos, independentemente de género, orientação sexual, capacidade, etnia, status socioeconômico e religião (ou a ausência dela).
 
 Este código de conduta delineia as nossas expectativas para todos aqueles que participam na nossa comunidade, bem como as consequências para comportamentos inaceitáveis.
 
-Convidamos todos os que participam no Documento De Ajuda a ajudar-nos a criar experiências seguras e positivas para todos.
+Convidamos todos os que participam no Espaço Compasso a ajudar-nos a criar experiências seguras e positivas para todos.
 
 ## Cidadania Aberta [Fonte/Cultura/Tecnologia]
 
@@ -48,7 +48,7 @@ Os seguintes comportamentos são considerados assédio e são inaceitáveis dent
 
 ## Política de Armas
 
-Não serão permitidas armas nos eventos do Documento De Ajuda, nos espaços comunitários ou em outros espaços abrangidos por este Código de Conduta. Armas incluem, mas não se limitam a, armas de fogo, explosivos (incluindo fogos de artifício) e facas grandes, como as usadas para caça ou exposição, bem como qualquer outro objeto usado com o propósito de causar ferimentos ou danos a terceiros. Qualquer pessoa vista na posse de um desses itens será convidada a sair imediatamente e só será autorizada a regressar sem a arma. Espera-se também que os membros da comunidade cumpram todas as leis estaduais e locais sobre este assunto.
+Não serão permitidas armas nos eventos do Espaço Compasso, nos espaços comunitários ou em outros espaços abrangidos por este Código de Conduta. Armas incluem, mas não se limitam a, armas de fogo, explosivos (incluindo fogos de artifício) e facas grandes, como as usadas para caça ou exposição, bem como qualquer outro objeto usado com o propósito de causar ferimentos ou danos a terceiros. Qualquer pessoa vista na posse de um desses itens será convidada a sair imediatamente e só será autorizada a regressar sem a arma. Espera-se também que os membros da comunidade cumpram todas as leis estaduais e locais sobre este assunto.
 
 ## Consequências de Comportamento Inaceitável
 
