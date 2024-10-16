@@ -59,6 +59,8 @@ _menu não usado neste repositório_ mas o espaço serve tal como esta página, 
 
 O menu [discussions](https://github.com/EspacoCompasso/Documento_de_Ajuda/discussions) serve para anunciar modificações, fazer perguntas entre outras opções. O menu issues é especificamente para notificar erros a serem corrigidos, mas também pode ser usado para substituir este menu. Aqui também se pode usar um sistema de voto, para cada assuntos / ponto a ser discutido, o que pode ser extremamente útil para qualquer equipa. 
 
+É **importante** dar relevo à comunicação e ao nosso **Código de Conduta** que define os limites da comunicação. Esse documento encontra-se [aqui](https://github.com/EspacoCompasso/Documento_de_Ajuda/blob/main/CDC.md)
+
 ## Permissões de escrita ou leitura
 
 Só os administradores é que têm permissão de escrita. Os restantes não. Para fazer modificações, será necessário passar pelo processo de aprovação no menu **pull requests**, sendo que até os administradores, deverão usar esse método para exemplo de boas práticas. 
