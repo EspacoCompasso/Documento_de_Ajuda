@@ -31,3 +31,5 @@
 8. Quais os membros do **Staff** que têm disponibilidade para ajudar no evento? 
 
 Outros pontos poderão ser acrescentados para serem listados e dessa forma, haver espaço de manobra com algum tempo, informando a equipa de **Staff** sobre as necessidades o mais cedo possível. 
+
+Clicar [aqui](https://github.com/EspacoCompasso/Documento_de_Ajuda/blob/main/README.md) para voltar à página inicial
