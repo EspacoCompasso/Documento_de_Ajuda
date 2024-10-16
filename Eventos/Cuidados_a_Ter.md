@@ -26,7 +26,8 @@
 6. Precisam de ajuda extra para carregar material?
    - Quantos voluntários precisam e quais as tarefas que irão precisar dessa ajuda?
 7. Precisam de técnico de Som?
-   - Sim, a banda não se sente confortável a usar o material de som do **Espaço Compass**.
+   - Sim, a banda não se sente confortável a usar o material de som do **Espaço Compasso**.
    - Não, a banda sente-se confortável a usar o material de som do **Espaço Compasso**.
+8. Quais os membros do **Staff** que têm disponibilidade para ajudar no evento? 
 
 Outros pontos poderão ser acrescentados para serem listados e dessa forma, haver espaço de manobra com algum tempo, informando a equipa de **Staff** sobre as necessidades o mais cedo possível. 
