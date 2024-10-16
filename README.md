@@ -107,6 +107,8 @@ Espaço para organizar eventos. Cada evento merece um documento dedicado, para s
 
 Os membros que dinamizam os eventos são: "Josa", "Daniela", "Teresa" e "Raquel", estando estes membros no grupo "Staff" do Whatsapp.
 
+Um documento que é importante ter em conta, que descreve algumas das preocupações que esta equipa tem pela frente, encontra-se [aqui](https://github.com/EspacoCompasso/Documento_de_Ajuda/blob/main/Eventos/Cuidados_a_Ter.md)
+
 ## Limites de utilização
 
 Cada Mandala aka Repositório, permite hospedar até 1GB de dados gratuitamente. A partir desse tamanho, ou se cria uma nova mandala, ou teremos de pagar para o efeito.
