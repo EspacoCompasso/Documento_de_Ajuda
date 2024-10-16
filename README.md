@@ -11,8 +11,9 @@
   - [Como utilizar o menu Wiki](#como-utilizar-o-menu-wiki)
   - [Como funciona o menu Discussions](#como-utilizar-o-menu-discussion)
   -[Permissões de escrita e permissões de leitura](#permissões-de-escrita-ou-leitura)
-  - [Como fazer o registo na plataforma](#como-fazer-registo-na-plataforma)
-  - [Como ficar associado ao espaço EspacoCompasso](#como-ficar-associado-ao-espaço-espacocompasso)
+- [Como fazer o registo na plataforma](#como-fazer-registo-na-plataforma)
+- [Como ficar associado ao espaço EspacoCompasso](#como-ficar-associado-ao-espaço-espacocompasso)
+
 - [Administradores](#administradores)
 - [Moderadores](#moderadores)
   - [Outros sócios](#outros-sócios)
