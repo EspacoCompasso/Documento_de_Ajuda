@@ -5,22 +5,22 @@
 - Este espaço chamado "Documento_de_Ajuda" é como se fosse uma Mandala. Aqui fala-se somente sobre toda a documentação que poderá ser útil a todos os membros da associação, no uso desta plataforma.
 
 
-0. [Qual a função de cada menu](#qual-a-função-de-cada-menu)
-1. [Como utilizar o menu Projects](#como-utilizar-o-menu-Projects)
-2. [Como utilizar o menu Issues](#como-utilizar-o-menu-projects)
-3. [Como utilizar o menu Wiki](#como-utilizar-o-menu-wiki)
-4. [Como funciona o menu Discussions](#como-utilizar-o-menu-discussion)
-5. [Permissões de escrita e permissões de leitura](#permissões-de-escrita-ou-leitura)
-6. [Como fazer o registo na plataforma](#como-fazer-registo-na-plataforma)
-7. [Como ficar associado ao espaço "EspacoCompasso](#como-ficar-associado-ao-espaço-espacocompasso)
-8. [Administradores](#administradores)
-9. [Moderadores](#moderadores)
-10. [Outros sócios](#outros-socios)
-11. [Hospedagem do site do Espaço Compasso](#hospedagem-do-site-do-espaco-compasso)
-12. [Hospedagem de documentos](#hospedagem-de-documentos)
-13. [Assembleias](#assembleias)
-14. [Atas](#atas)
-15. [Eventos](#eventos)
+- [Qual a função de cada menu](#qual-a-função-de-cada-menu)
+  - [Como utilizar o menu Projects](#como-utilizar-o-menu-Projects)
+  - [Como utilizar o menu Issues](#como-utilizar-o-menu-projects)
+  - [Como utilizar o menu Wiki](#como-utilizar-o-menu-wiki)
+  - [Como funciona o menu Discussions](#como-utilizar-o-menu-discussion)
+  -[Permissões de escrita e permissões de leitura](#permissões-de-escrita-ou-leitura)
+  - [Como fazer o registo na plataforma](#como-fazer-registo-na-plataforma)
+  - [Como ficar associado ao espaço EspacoCompasso](#como-ficar-associado-ao-espaço-espacocompasso)
+- [Administradores](#administradores)
+- [Moderadores](#moderadores)
+  - [Outros sócios](#outros-sócios)
+- [Hospedagem do site do Espaço Compasso](#hospedagem-do-site)
+- [Hospedagem de documentos](#hospedagem-de-documentos-internos)
+  - [Assembleias](#assembleias)
+  - [Atas](#atas)
+  - [Eventos](#eventos)
 
 ## Qual a função de cada Menu
 
