@@ -74,3 +74,4 @@ Esperamos que todos os participantes da comunidade (contribuidores, remunerados 
 
 Este código de conduta e os procedimentos associados também se aplicam a comportamentos inaceitáveis que ocorram fora do âmbito das atividades da comunidade, quando tais comportamentos tiverem o potencial de afetar negativamente a segurança e o bem-estar dos membros da comunidade.
 
+Clicar [aqui](https://github.com/EspacoCompasso/Documento_de_Ajuda/blob/main/README.md) para voltar à página inicial
