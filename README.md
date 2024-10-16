@@ -53,11 +53,11 @@ Permite atribuir marcas/tags especificas a cada assunto a ser discutido, sendo q
 
 ## Como utilizar o menu "wiki"
 
-Caso haja a necessidade de documentar algo, será este o espaço a usar. Tal como o [Wikipedia](https://github.com/EspacoCompasso/Documento_de_Ajuda/wiki), é útil para ler informação que pode ser relevante saber. 
+_menu não usado neste repositório_ mas o espaço serve tal como esta página, definir documentação. 
 
 ## Como utilizar o menu "discussion"
 
-O menu [discussions](https://github.com/EspacoCompasso/Documento_de_Ajuda/discussions) serve para anunciar modificações, fazer perguntas entre outras opções. O menu issues é especificamente para notificar erros a seres corrigidos, mas também pode ser usado para substituir este menu. Aqui também se pode usar um sistema de voto, para cada assuntos / ponto a ser discutido, o que pode ser extremamente útil para qualquer equipa. 
+O menu [discussions](https://github.com/EspacoCompasso/Documento_de_Ajuda/discussions) serve para anunciar modificações, fazer perguntas entre outras opções. O menu issues é especificamente para notificar erros a serem corrigidos, mas também pode ser usado para substituir este menu. Aqui também se pode usar um sistema de voto, para cada assuntos / ponto a ser discutido, o que pode ser extremamente útil para qualquer equipa. 
 
 ## Permissões de escrita ou leitura
 
@@ -111,6 +111,6 @@ Cada Mandala aka Repositório, permite hospedar até 1GB de dados gratuitamente.
 
 ---
 
-No lado esquerdo, podem ver quem foi o utilizador que fez as últimas modificações neste documento: @DaoExpression aka Oscar FM no Whatsapp. 
+No lado superior esquerdo, podem ver quem foi o utilizador que fez as últimas modificações neste documento: @DaoExpression aka Oscar FM no Whatsapp. 
 
 Para melhoria da organização de cada assunto, esta plataforma ou semelhantes é a mais indicada. 
