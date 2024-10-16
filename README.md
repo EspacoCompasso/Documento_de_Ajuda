@@ -45,7 +45,7 @@ Sócios efectivos:
 
 ## Como utilizar o menu "projects"
 
-_descrição em falta_
+Permite organizar e controlar o desenvolvimento de cada assunto ou projecto relacionado com este repositório. Ver exemplo [aqui](https://github.com/orgs/EspacoCompasso/projects/3)
 
 ## Como utilizar o menu "issues" 
 
