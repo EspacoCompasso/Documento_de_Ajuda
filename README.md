@@ -4,19 +4,26 @@
 
 - Este espaço chamado "Documento_de_Ajuda" é como se fosse uma Mandala. Aqui fala-se somente sobre toda a documentação que poderá ser útil a todos os membros da associação, no uso desta plataforma.
 
+Sobre este espaço que irá estruturar e guardar dados sobre o **Espaço Compasso**: 
 
 - [Qual a função de cada menu](#qual-a-função-de-cada-menu)
   - [Como utilizar o menu Projects](#como-utilizar-o-menu-Projects)
   - [Como utilizar o menu Issues](#como-utilizar-o-menu-projects)
   - [Como utilizar o menu Wiki](#como-utilizar-o-menu-wiki)
   - [Como funciona o menu Discussions](#como-utilizar-o-menu-discussion)
-  -[Permissões de escrita e permissões de leitura](#permissões-de-escrita-ou-leitura)
+  - [Permissões de escrita e permissões de leitura](#permissões-de-escrita-ou-leitura)
+
+Novos utilizadores: 
+
 - [Como fazer o registo na plataforma](#como-fazer-registo-na-plataforma)
 - [Como ficar associado ao espaço EspacoCompasso](#como-ficar-associado-ao-espaço-espacocompasso)
+
+Sócios efectivos: 
 
 - [Administradores](#administradores)
 - [Moderadores](#moderadores)
   - [Outros sócios](#outros-sócios)
+
 - [Hospedagem do site do Espaço Compasso](#hospedagem-do-site)
 - [Hospedagem de documentos](#hospedagem-de-documentos-internos)
   - [Assembleias](#assembleias)
