@@ -45,7 +45,8 @@ Sócios efectivos:
 
 ## Como utilizar o menu "projects"
 
-Permite organizar e controlar o desenvolvimento de cada assunto ou projecto relacionado com este repositório. Ver exemplo [aqui](https://github.com/orgs/EspacoCompasso/projects/3)
+Permite organizar e controlar o desenvolvimento de cada assunto ou projecto relacionado com este repositório. 
+Ver exemplo [aqui](https://github.com/orgs/EspacoCompasso/projects/3)
 
 ## Como utilizar o menu "issues" 
 
@@ -57,9 +58,11 @@ _menu não usado neste repositório_ mas o espaço serve tal como esta página, 
 
 ## Como utilizar o menu "discussion"
 
-O menu [discussions](https://github.com/EspacoCompasso/Documento_de_Ajuda/discussions) serve para anunciar modificações, fazer perguntas entre outras opções. O menu issues é especificamente para notificar erros a serem corrigidos, mas também pode ser usado para substituir este menu. Aqui também se pode usar um sistema de voto, para cada assuntos / ponto a ser discutido, o que pode ser extremamente útil para qualquer equipa. 
+O menu [discussions](https://github.com/EspacoCompasso/Documento_de_Ajuda/discussions) serve para anunciar modificações, fazer perguntas entre outras opções. 
+O menu issues é especificamente para notificar erros a serem corrigidos, mas também pode ser usado para substituir este menu. 
+Aqui também se pode usar um sistema de voto, para cada assuntos / ponto a ser discutido, o que pode ser extremamente útil para qualquer equipa. 
 
-É **importante** dar relevo à comunicação e ao nosso **Código de Conduta**: https://github.com/EspacoCompasso/Documento_de_Ajuda/discussions/10
+**Nota**: É **importante** dar relevo à comunicação e ao nosso **Código de Conduta**: https://github.com/EspacoCompasso/Documento_de_Ajuda/discussions/10
 
 ## Permissões de escrita ou leitura
 
@@ -68,11 +71,14 @@ Só os utilizadores que não fazem parte da comunidade é que terão de usar o m
 
 ## Como fazer registo na plataforma
 
-Tal como todos os outros sites que oferecem uma funcionalidade, é necessário fazer o registo. Por questões de segurança, será pedido ( como condição obrigatória ) que adicionem o vosso número de telefone, para que a cada login, um código numérico seja enviado para o vosso número de telefone. 
+Tal como todos os outros sites que oferecem uma funcionalidade, é necessário fazer o registo. 
+Por questões de segurança, será pedido ( como condição obrigatória ) que adicionem o vosso número de telefone, para que a cada login, um código numérico seja enviado para o vosso número de telefone. 
 
 ## Como ficar associado ao espaço "EspacoCompasso"
 
-Depois de terem feito o registo, será necessário avisar um dos administradores indicando o email que foi usado. A partir dessa informação, os administradores poderão enviar um convite para fazerem parte do espaço e é-vos atribuído as permissões de utilização. Poderá ser atribuído permissões de escrita aos membros de uma mandala especifica, sendo que essas permissões só funcionam na "mandala" aka "repositório", que o membro faz parte. 
+Depois de terem feito o registo, será necessário avisar um dos administradores indicando o email que foi usado. 
+A partir dessa informação, os administradores poderão enviar um convite para fazerem parte do espaço e é-vos atribuído as permissões de utilização. 
+Poderá ser atribuído permissões de escrita aos membros de uma mandala especifica, sendo que essas permissões só funcionam na "mandala" aka "repositório", que o membro faz parte. 
 
 ## Outros sócios
 
@@ -83,28 +89,31 @@ Lembrem-se que as respostas não precisam de respostas imediatas. Para isso usa-
 ## Hospedagem do site
 
 Espaço para hospedar o código do site: https://github.com/EspacoCompasso/Website
+Anteriormente o Espaço Compasso usava a plataforma Wordpress para hospedar o site, sendo que actualmente existem outras opções mais seguras. 
+Uma conversa que gira à volta desse assunto é a seguinte: https://github.com/EspacoCompasso/Website/issues/5
 
 ## Hospedagem de documentos internos
 
 Espaço para hospedar / guardar documentos internos que sejam relevantes salva-guardar. 
+Actualmente o Espaço Compasso está a usar o Teams, para guardar os documentos internos. 
+Alguns deverão ser copiados para esta plataforma, como meio de facilitar a leitura dos mesmos. 
 
 ## Assembleias 
 
-Assuntos discutidos, Horários, datas, assuntos a tratar, prioridades, etc.. 
-https://github.com/EspacoCompasso/Meetings
+Assuntos discutidos, Horários, datas, assuntos a tratar, prioridades, etc. https://github.com/EspacoCompasso/Meetings
 
 ## Eventos
 
 Espaço para organizar eventos. 
-- Cada evento merece um documento dedicado, para ser mais fácil organizar e tirar notas. 
-
 https://github.com/EspacoCompasso/Events
 
+- Cada evento merece um documento dedicado, para ser mais fácil organizar e tirar notas. 
 - Um documento que é importante ter em conta, que descreve algumas das preocupações que esta equipa tem pela frente, encontra-se aqui: https://github.com/EspacoCompasso/Events/discussions/5
 
 ## Limites de utilização
 
-Cada Mandala aka Repositório, permite hospedar até 1GB de dados gratuitamente. A partir desse tamanho, ou se cria uma nova mandala, ou teremos de pagar para o efeito.
+Cada Mandala aka Repositório, permite hospedar até 1GB de dados gratuitamente. 
+A partir desse tamanho, ou se cria uma nova mandala, ou teremos de pagar para o efeito.
 
 ---
 
