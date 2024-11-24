@@ -63,7 +63,8 @@ O menu [discussions](https://github.com/EspacoCompasso/Documento_de_Ajuda/discus
 
 ## Permissões de escrita ou leitura
 
-Só os administradores é que têm permissão de escrita. Os restantes não. Para fazer modificações, será necessário passar pelo processo de aprovação no menu **pull requests**, sendo que até os administradores, deverão usar esse método para exemplo de boas práticas. 
+Todos os utilizadores incluídos no **Espaço Compasso**, têm direitos de escrita, isto é: Podem editar os ficheiros directamente, criar issues, projectos, repositórios e discussões. 
+Só os utilizadores que não fazem parte da comunidade é que terão de usar o método de "fork + pull-request" para fazer modificações, sendo este método a formula correcta de usar esta plataforma. 
 
 ## Como fazer registo na plataforma
 
@@ -73,14 +74,6 @@ Tal como todos os outros sites que oferecem uma funcionalidade, é necessário f
 
 Depois de terem feito o registo, será necessário avisar um dos administradores indicando o email que foi usado. A partir dessa informação, os administradores poderão enviar um convite para fazerem parte do espaço e é-vos atribuído as permissões de utilização. Poderá ser atribuído permissões de escrita aos membros de uma mandala especifica, sendo que essas permissões só funcionam na "mandala" aka "repositório", que o membro faz parte. 
 
-## Adminstradores
-
-Lista de todos os membros administradores: @DaoExpression 
-
-## Moderadores 
-
-Lista de todos os membros Moderadores: 
-
 ## Outros sócios
 
 Lista de todos os membros sócios participantes. 
@@ -89,7 +82,7 @@ Lembrem-se que as respostas não precisam de respostas imediatas. Para isso usa-
 
 ## Hospedagem do site
 
-Espaço para hospedar o código do site 
+Espaço para hospedar o código do site: https://github.com/EspacoCompasso/Website
 
 ## Hospedagem de documentos internos
 
@@ -98,20 +91,17 @@ Espaço para hospedar / guardar documentos internos que sejam relevantes salva-g
 ## Assembleias 
 
 Assuntos discutidos, Horários, datas, assuntos a tratar, prioridades, etc.. 
-
-## Atas
-
-Lista de documentos com os resumos das atas
+https://github.com/EspacoCompasso/Meetings
 
 ## Eventos
 
-Espaço para organizar eventos. Cada evento merece um documento dedicado, para ser mais fácil organizar e tirar notas. 
+Espaço para organizar eventos. 
+- Cada evento merece um documento dedicado, para ser mais fácil organizar e tirar notas. 
 
+https://github.com/EspacoCompasso/Events
 
-
-Os membros que dinamizam os eventos são: "Josa", "Daniela", "Teresa" e "Raquel", estando estes membros no grupo "Staff" do Whatsapp.
-
-Um documento que é importante ter em conta, que descreve algumas das preocupações que esta equipa tem pela frente, encontra-se [aqui](https://github.com/EspacoCompasso/Documento_de_Ajuda/blob/main/Eventos/Cuidados_a_Ter.md)
+- Os membros que dinamizam os eventos são: "Josa", "Daniela", "Teresa" e "Raquel", estando estes membros no grupo "Staff" do Whatsapp.
+- Um documento que é importante ter em conta, que descreve algumas das preocupações que esta equipa tem pela frente, encontra-se [aqui](https://github.com/EspacoCompasso/Documento_de_Ajuda/blob/main/Eventos/Cuidados_a_Ter.md)
 
 ## Limites de utilização
 
